@@ -8,3 +8,7 @@ This repository contains the starter code for many different projects. They are 
 * `prepare` - Starter projects for each of the preparation Learning Activities.
 * `prove` - Starter projects for each of the prove Developer projects.
 * `final` - Starter projects for final project.
+
+"Make a change to the README.md file such as adding your name or removing the line that says, 'This is the starter code.'"
+
+I will add another line to see if it finally updates.
