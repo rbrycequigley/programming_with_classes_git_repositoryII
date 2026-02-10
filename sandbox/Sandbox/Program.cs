@@ -1,9 +1,2 @@
-using System;
+using System.Text.Encodings.Web;
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello Sandbox World!");
-    }
-}
