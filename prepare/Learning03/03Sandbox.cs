@@ -12,7 +12,4 @@ public class Person
         _firstName = "Anonymous";
         _lastName = "Unknown";
     }
-
-    
-
 }
